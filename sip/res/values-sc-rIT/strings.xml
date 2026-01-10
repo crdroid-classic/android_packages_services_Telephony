@@ -14,5 +14,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="all_empty_alert">Sekcem talqayt n umiḍan SIP amaynut.</string>
+    <string name="third_party_account_summary">Custu contu immoe l\'est impreende s\'aplicatzione <xliff:g id="account_owner" example="Google Talk">%s</xliff:g>.</string>
 </resources>
